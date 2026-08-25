@@ -1,13 +1,6 @@
-# Compiled Java files
-*.class
-
-# IDE files
+target/
 .idea/
 *.iml
-*.swp
-*.swo
-
-# OS files
-.DS_Store
-Thumbs.db
-
+.mvn/wrapper/maven-wrapper.jar
+SavasAraclari.txt
+*.class

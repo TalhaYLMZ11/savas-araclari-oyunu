@@ -6,7 +6,7 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği, Programlama Laboratuvarı I der
 
 > **Not:** Proje Kasım 2024'te teslim edildi. Depoya yüklenmeden önce oyun mantığı arayüzden ayrıldı, kural hataları düzeltildi ve arayüz yeniden tasarlandı.
 
-![Oyun ekranı](src/main/resources/png/OyunEkrani.png)
+![Oyun ekranı](docs/ekran.png)
 
 ## Gereksinimler
 
@@ -103,7 +103,7 @@ savas-araclari-oyunu/
 ├── pom.xml
 ├── mvnw, mvnw.cmd, .mvn/
 └── src/main/
-    ├── java/          14 sınıf
+    ├── java/          15 sınıf
     └── resources/png/ arka plan görseli
 ```
 

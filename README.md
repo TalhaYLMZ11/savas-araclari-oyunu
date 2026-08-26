@@ -110,7 +110,3 @@ savas-araclari-oyunu/
 ## Kullanılan teknolojiler
 
 Java 17, JavaFX 21, Maven
-
-## Lisans
-
-MIT — ayrıntılar için `LICENSE` dosyasına bak.
